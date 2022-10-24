@@ -18,7 +18,7 @@ public class Ram {
 		System.out.println();
 		System.out.println();
 		
-		System.out.println();	System.out.println();
+		System.out.println();	System.out.println(); System.out.println();
 	}
 
 }
